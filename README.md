@@ -1,2 +1,2 @@
 # khaitutor
-this is for my website about online teching
+This is for my website about online teaching.
